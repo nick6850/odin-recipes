@@ -1,1 +1,1 @@
-# odin-recipes
+This repository contains a simple HTML website that showcases a collection of recipes. It is part of a project for "The Odin Project" course, aimed at developing fundamental web development skills.
